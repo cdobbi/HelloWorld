@@ -1,32 +1,36 @@
-# HelloWord
+# Hello World in R - Setup
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+## Overview
+Hello World in R is my first R program. I'll be using it to build a rabbit genome calculator that predicts coat outcomes of 10 offspring based on the pairing of 2 adult rabbits.
 
-{Provide a description of the software that you wrote to demonstrate the R language.}
+This small line of code, prints a message to the terminal confirming that R is installed and working. 
 
-{Describe your purpose for writing this software.}
+[Software Demo Video](http://youtube.rhinelanderloverabbitrescue)
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
-
-# Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+## Development Environment
+Editor: VS Code
+Language: R (version 4.5.2)
+    - R is sophisticated calculator for structured data, patterns, and probabilities. It has built-in support for vectors, lists and dataframes without needing extra libraries. This means, i'll be able to model allele combinations, filter genotype outcomes, and run logic-heavy predictions with a few lines of code. R handles looping through genetic pairings cleanly. I can store and query common genotype patterns. It interacts well with cloud databases like Neo4j. I'ts not flashy or overcomplicated, it just speaks genetics.
+Extensions:
+    - VSCode-R for syntax and termianl support.
+    - languageserver installed manually to support code hints.
+How I Ran It:
+    - I created a file called 'hello_world.R'
+    - I typed 'cat("Hello, world!\n")'
+    - I pressed 'Ctrl + Enter' and saw the message in the terminal, "Hello, World!"
 
 # Useful Websites
+- [You Tube, Genotype and Phenotype Explained! With Examples](https://www.bing.com/videos/riverview/relatedvideo?&q=library+cheatsheet+for+genotype+and+phenotype+in+r&&mid=5D57B0CD0DD7C2B36C3A5D57B0CD0DD7C2B36C3A&&FORM=VRDGAR) - excellent for understanding genotypes and phenotypes.
+- [CRAN R Project](http://cran.r-project.org/) - for downloading R
+- [VS Code R Extension](http://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) - helped me get R working in VS Code.
+- [R Studio Cheatsheets](https://rstudio.com/resources/cheatsheets/) - helpful for understanding basic R syntax.
+- [You Tube, R Programming for Absolute Beginners](https://www.bing.com/videos/riverview/relatedvideo?&q=R+Programming+Beginner&&mid=8111C769EBB10FA25CE08111C769EBB10FA25CE0&mmscn=mtsc&&FORM=VRDGAR) - tutorial providing simple syntax of what R does at the core.
+- [Data Transformation with dplyr : : CHEAT SHEET](https://nyu-cdsc.github.io/learningr/assets/data-transformation.pdf) - a very useful cheatsheet providing a set of “verbs” in R that describe common data tasks.
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Item 1: Learn how to handle input and output in R
+- Item 2: Practice using loops, lists and dataframes
+- Item 3: Start building the genotype logic for the rabbit genome calculator
+- Item 4: Explore R Markdown for a simple form layout
+- Item 5: Connect to Neo4j Aura to store common genotype patterns

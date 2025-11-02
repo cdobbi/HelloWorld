@@ -1,0 +1,11 @@
+Time Log - Week 1: Hello World in R
+Total Hours Spent: 14 hours
+
+*** Breakdown of Time Spent on tasks ***
+- R Language Research: Compared R, Python, and JavaScript for data modeling, syntax, and long-term fit for my genome calculator = 4.0 hour.
+- R Environment Setup: Installed R, configured VS Code with vxcode-R, installed languageserver, tested terminal integration, tested dplyr in r terminal = 2.5 hour.
+- Hello World Script: Wrote and tested hello_world.R using cat(), confirmed ouput in terminal = 1.0 hour.
+- Explored dplyr: Installed dplyr, created and filtered a sample rabbit genotype dataframe = 2.0 hours.
+- README Writing: Drafted and refined README to meet criteria and reflect real-world goals = 2.0 hours.
+- Video Planning: Oulined and scripted 2-minute You Tube video walkthrough, including setup, code, and learning summary = 2.0 hours.
+- Documentation of Tasks: Created a log of tasks, the description of the tasks and the time spent on those tasks = .5 hours.
