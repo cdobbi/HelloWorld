@@ -1,0 +1,25 @@
+Unique Module Requirements
+Write multiple functions (not necessarily part of a single piece of software) in R that demonstrates the following:
+
+
+All of these basic requirements:
+Display output to the screen.
+
+Use at least 5 different R datatypes in your program
+
+Incorporate at least one loop that works with lists or arrays
+
+Use Dataframes
+
+One of these additional requirements:
+
+Incorporate CSV file
+
+Create process and send messages to the process
+
+Use the case_when coding block
+
+Use the R README.md template.
+
+Guidance
+Setup VSCode to program with R
