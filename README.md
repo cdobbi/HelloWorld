@@ -4,7 +4,6 @@
 Hello World in R is my first R program. I'll be using it to build a rabbit genome calculator that predicts coat outcomes of 10 offspring based on the pairing of 2 adult rabbits.
 
 This small line of code, prints a message to the terminal confirming that R is installed and working. 
-[Software Demo Video](https://youtu.be/UgPAAaph4tM)
 [Git Hub Repo](https://github.com/cdobbi/HelloWorld)
 
 ## Development Environment
